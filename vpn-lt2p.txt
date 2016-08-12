@@ -1,0 +1,11 @@
+#############################################################
+#
+# [Install Complete]
+# There is the default login info of your VPN
+# UserName: myUserName
+# PassWord: myUserPass
+# PSK: myPSKkey
+# you can change UserName and PassWord in /usr/local/etc/ipsec.secrets
+# you must copy the cert  /home/my_key/ca.cert.pem  to the client and install it.
+#
+#############################################################
